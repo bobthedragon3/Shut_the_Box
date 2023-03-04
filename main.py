@@ -1,5 +1,5 @@
 # Shut The Box Simulator
-# Rules of the game:
+# Rul blah blah blah
 # 1. Start with 1-9 number tiles available for user
 # 2. Roll 2 dice (2 random number generator between 1-6)
 # 3. Add numbers together
